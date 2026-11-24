@@ -1,0 +1,32 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pt
+*.pth
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+*.ipynb_checkpoints/
+
+# Credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Temporary files
+*.tmp
+
+# Additional model checkpoints
+*.ckpt
+*.onnx
+
+# Local Python environments
+.venv/
+venv/
